@@ -1,7 +1,7 @@
-<p align="right">
- <a href="https://www.spartaglobal.com/">
+<a href="https://www.spartaglobal.com/">
 	<img src="sparta-logo-4020.png" align="right" />
- </a>
+</a>
+
 # Messing With GitHub
 > I dont really know what I'm doing
 Hopefully this will all work out fine.
